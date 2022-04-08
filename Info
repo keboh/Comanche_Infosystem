@@ -1,0 +1,18 @@
+Adafruit Feather RP2040
+Tech Specs: https://learn.adafruit.com/adafruit-feather-rp2040-pico
+
+Adafruit 2.23" Monochrome OLED Bonnet
+Tech Specs: https://learn.adafruit.com/adafruit-2-23-monochrome-oled-bonnet
+GitHub Repo with tech info: https://github.com/adafruit/Adafruit_CircuitPython_SSD1305
+
+Adafruit BMP280 Barometric Pressure + Temperature Sensor Breakout
+Tech Specs: https://learn.adafruit.com/adafruit-bmp280-barometric-pressure-plus-temperature-sensor-breakout/downloads
+GitHub Repo: https://github.com/adafruit/Adafruit_CircuitPython_BMP280
+
+Adafruit Triple-axis Magnetometer - LIS2MDL
+Tech Specs: https://learn.adafruit.com/adafruit-lis2mdl-triple-axis-magnetometer/downloads
+GitHub Repo: https://github.com/adafruit/Adafruit_CircuitPython_LIS2MDL
+
+Lithium Ion Polymer Battery - 3.7v 500mAh
+
+STEMMA QT / Qwiic JST SH 4-pin Cable
